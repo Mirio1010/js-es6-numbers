@@ -3,6 +3,9 @@
 ## Overview
 This function creates a smooth counting animation that increments from 0 to a target number, displaying the progress in real-time on a webpage element.
 
+## Live Demo
+👉 View the project here: **[NumbersAnimation](https://mirio1010.github.io/js-es6-numbers/)**
+
 ## How It Works
 
 ### 1. **Get the Target Value**
