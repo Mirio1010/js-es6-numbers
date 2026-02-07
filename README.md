@@ -1,7 +1,11 @@
 # Number Counter Animation
 
 ## Overview
-This function creates a smooth counting animation that increments from 0 to a target number, displaying the progress in real-time on a webpage element.
+This function creates a smooth counting animation that increments from 0 to a target number, displaying the progress in real-time on a webpage element. 
+
+Feel free to use this function for future projects! 
+
+
 
 ## Live Demo
 👉 View the project here: **[NumbersAnimation](https://mirio1010.github.io/js-es6-numbers/)**

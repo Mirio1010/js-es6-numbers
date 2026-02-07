@@ -17,8 +17,7 @@ const updateCount = (element) => {
     element.textContent = `${initialValue}+`;
   }, 1);
 
-  
-  
+
   
 };
 
